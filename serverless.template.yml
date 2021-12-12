@@ -1,0 +1,5 @@
+name: Engineering Assignment
+author: David Lee
+description: Deploys a Simple Node Express API service backed by DynamoDB with Serverless Framework
+repo: https://github.com/baymax-codecare/serverless-test
+license: MIT
